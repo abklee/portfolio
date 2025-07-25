@@ -565,3 +565,29 @@ html, body {
   color: #888;
   margin-top: 4px;
 }
+
+@media (max-width: 600px) {
+  .post-filters-wrapper {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 1rem;
+  }
+
+  .filter-buttons {
+    position: static;
+    transform: none;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .sort-dropdown {
+    margin-left: 0;
+    align-self: flex-end; /* optional: right-align dropdown on mobile */
+  }
+
+  .sort-dropdown select {
+    width: 100%;
+    max-width: 200px;
+  }
+}
