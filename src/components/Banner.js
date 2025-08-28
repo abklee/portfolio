@@ -13,9 +13,8 @@ function Banner() {
           I’m an engineer and mathematician interested in the structural as well as behavioral aspects of software systems — how models learn,
           how software breaks at the lowest level, and how mathematical tools can be used to understand both.
           <br /><br />
-          Currently I'm working as a Data Science Engineer Intern at Peraton in Blacksburg, Virginia, and a
-          recent graduate of Virginia Tech, where I’ll return this fall for my accelerated
-          Master’s in Computer Science.
+          I'm a recent graduate of Virginia Tech with degrees in computer science and mathematics, and I'm back in Blacksburg for 
+          the 2025-26 school year to wrap up my accelerated master of engineering in computer science.  
           <br /><br />
           This site is a collection of things I find worth sharing, research, projects, work, and some occasional fun. Please feel free to contact me about anything you see on here, my email and socials are at the bottom of the page.
         </p>
