@@ -10,8 +10,7 @@ function Banner() {
       <div className="banner-text">
         <h1 className="banner-title">Hi, I'm Alex</h1>
         <p className="banner-description">
-          I’m an engineer and mathematician interested in the structural as well as behavioral aspects of software systems — how models learn,
-          how software breaks at the lowest level, and how mathematical tools can be used to understand both.
+          I’m an engineer and mathematician based in Virginia, focused on how software works, why it breaks, and how to make it better.
           <br /><br />
           I'm a recent graduate of Virginia Tech with degrees in computer science and mathematics, and I'm back in Blacksburg for 
           the 2025-26 school year to wrap up my accelerated master of engineering in computer science.  
