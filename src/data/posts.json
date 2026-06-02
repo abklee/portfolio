@@ -133,7 +133,28 @@
     "thumbnail": "/assets/posts/16/homo.png",
     "date": "2025-12-08",
     "type": "professional",
-    "subject": "Project on Machine Learning, Social Networks, and Graph Theory",
+    "subject": "Research project on machine learning, social networks, and graph theory",
     "content": "This was a project for CS 5805, Machine Learning, in which I developed a scalable machine learning pipeline using the Node2Vec algorithm to identify distinct community structures and influential users in large social network datasets. \n[[pdf:/assets/posts/16/Node2VecPaper.pdf]]\n"
+  },
+  {
+      
+    "id": "16",
+    "title": "PoisonRAG",
+    "thumbnail": "/assets/posts/17/poison.jpg",
+    "date": "2026-5-03",
+    "type": "professional",
+    "subject": "Research project on retreival augmented generation (RAG) and data poisoning",
+    "content": "This work was a portion of a semester long research project completed in a group for CS 5624, Natural Language Processing, where we evaluated the robustness of commonly used RAG architectures to corpus poisoning. \n[[pdf:/assets/posts/17/poison.pdf]]\n"
+  },
+  {
+      
+    "id": "17",
+    "title": "Modern Malware Detection",
+    "thumbnail": "/assets/posts/18/malware.jpg",
+    "date": "2026-5-07",
+    "type": "professional",
+    "subject": "Study on malware detection using graph based learning and classical machine learning",
+    "content": "This report was part of a research project completed for CS/ECE 5590 at Virginia Tech, System and Software Security, in which I compared the effectiveness of traditional machine learning approaches to modern graph representation learning strategies for malware detection. \n[[pdf:/assets/posts/18/malware.pdf]]\n"
   }
+  
 ]
